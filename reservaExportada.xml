@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+	<reservaciones>
+		<registro>
+			<id>1</id>
+			<fecha_reserva>2018-08-01 00:00:00</fecha_reserva>
+			<garantia>si</garantia>
+			<usuario>gabriel</usuario>
+			<id_vehiculo>1</id_vehiculo>
+		</registro>
+		<registro>
+			<id>2</id>
+			<fecha_reserva>2018-08-10 00:00:00</fecha_reserva>
+			<garantia>no</garantia>
+			<usuario>Mia</usuario>
+			<id_vehiculo>2</id_vehiculo>
+		</registro>
+		<registro>
+			<id>3</id>
+			<fecha_reserva>2018-08-10 00:00:00</fecha_reserva>
+			<garantia>no</garantia>
+			<usuario>German</usuario>
+			<id_vehiculo>2</id_vehiculo>
+		</registro>
+		<registro>
+			<id>4</id>
+			<fecha_reserva>2018-08-10 00:00:00</fecha_reserva>
+			<garantia>no</garantia>
+			<usuario>Mario</usuario>
+			<id_vehiculo>1</id_vehiculo>
+		</registro>
+	</reservaciones>
+	<vehiculos>
+		<registro>
+			<id>1</id>
+			<fecha_reserva>2018-08-01 00:00:00</fecha_reserva>
+			<garantia>si</garantia>
+			<usuario>gabriel</usuario>
+			<id_vehiculo>1</id_vehiculo>
+		</registro>
+		<registro>
+			<id>2</id>
+			<fecha_reserva>2018-08-10 00:00:00</fecha_reserva>
+			<garantia>no</garantia>
+			<usuario>Mia</usuario>
+			<id_vehiculo>2</id_vehiculo>
+		</registro>
+		<registro>
+			<id>3</id>
+			<fecha_reserva>2018-08-10 00:00:00</fecha_reserva>
+			<garantia>no</garantia>
+			<usuario>German</usuario>
+			<id_vehiculo>2</id_vehiculo>
+		</registro>
+		<registro>
+			<id>4</id>
+			<fecha_reserva>2018-08-10 00:00:00</fecha_reserva>
+			<garantia>no</garantia>
+			<usuario>Mario</usuario>
+			<id_vehiculo>1</id_vehiculo>
+		</registro>
+	</vehiculos>
